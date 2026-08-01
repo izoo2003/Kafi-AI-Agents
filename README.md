@@ -1,6 +1,6 @@
 # KAFI AI Agent
 
-Enterprise AI agents for finance and operations, built for **Kafi Commodities** by **Sheikh Shumyle** and **NeuroGrid Labs**.
+Enterprise AI agents for finance and operations, built for **Kafi Commodities** by **Sheikh Shumyle** , **NeuroGrid Labs** and **Izaan Bin Mujeeb**.
 
 The platform starts at a central agent hub and routes into specialized modules. The **AI Agent Finance** suite is the primary active product — bank reconciliation, credit card verification, expense analysis, fund estimation, and more — powered by Claude and integrated with Google Sheets for shared data.
 
